@@ -1,4 +1,4 @@
-👋 Hi, I’m Mark Jake O. Alvizo!
+##👋 Hi, I’m Mark Jake O. Alvizo!
 
 🎓 Undergraduate IT Student
 
@@ -8,7 +8,7 @@
 
 📚 Interested in building practical solutions that can help people and businesses
 
-🔧 Skills & Tools
+##🔧 Skills & Tools
 
 Programming: Python, Java
 
@@ -18,7 +18,7 @@ Database: MySQL (basic)
 
 Tools: Git, GitHub, VS Code
 
-🎯 Interests
+##🎯 Interests
 
 Web and system development
 
@@ -26,7 +26,7 @@ Educational and productivity applications
 
 Technology-based solutions for real-world problems
 
-🌐 Portfolio
+##🌐 Portfolio
 
 🔗 Portfolio Website: https://your-portfolio-link-here
 
