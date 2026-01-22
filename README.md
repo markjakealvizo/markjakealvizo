@@ -1,6 +1,9 @@
 👋 Hi, I’m Mark Jake O. Alvizo!
 
-🎓 BSIT Under Graduate from Caraga State University – Cabadbaran Campus 💻 Aspiring IT professional with an interest in web development, systems, and technology-driven solutions 🌱 Currently improving my skills in programming, problem-solving, and software development 📚 Enjoys learning through hands-on projects and continuous practice
+🎓 Undergraduate IT Student
+💻 Passionate about technology, programming, and system development
+🌱 Currently learning and improving my skills in software development through academic work and personal projects
+📚 Interested in building practical solutions that can help people and businesses
 
 🔧 Skills & Tools
 
@@ -18,10 +21,16 @@ Web and system development
 
 Educational and productivity applications
 
-Tech projects that solve real-world problems
+Technology-based solutions for real-world problems
+
+🌐 Portfolio
+
+🔗 Portfolio Website: https://your-portfolio-link-here
+
+(Showcases my projects, skills, and academic work)
 
 📫 Let’s Connect
 
-GitHub: You’re already here! 😊
+GitHub: You’re already here 😊
 
-✨ Always learning, always improving.
+✨ Learning step by step and growing in tech.
