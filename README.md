@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I’m Mark Jake O. Alvizo!
 
-<!--
-**markjakealvizo/markjakealvizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSIT Under Graduate from Caraga State University – Cabadbaran Campus 💻 Aspiring IT professional with an interest in web development, systems, and technology-driven solutions 🌱 Currently improving my skills in programming, problem-solving, and software development 📚 Enjoys learning through hands-on projects and continuous practice
 
-Here are some ideas to get you started:
+🔧 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: Python, Java
+
+Web: HTML, CSS, basic JavaScript
+
+Database: MySQL (basic)
+
+Tools: Git, GitHub, VS Code
+
+🎯 Interests
+
+Web and system development
+
+Educational and productivity applications
+
+Tech projects that solve real-world problems
+
+📫 Let’s Connect
+
+GitHub: You’re already here! 😊
+
+✨ Always learning, always improving.
