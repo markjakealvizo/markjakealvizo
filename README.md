@@ -18,7 +18,7 @@ Database: MySQL (basic)
 
 Tools: Git, GitHub, VS Code
 
-### 🎯 Interests
+## 🎯 Interests
 
 Web and system development
 
@@ -26,7 +26,7 @@ Educational and productivity applications
 
 Technology-based solutions for real-world problems
 
-#### 🌐 Portfolio
+## 🌐 Portfolio
 
 🔗 Portfolio Website: https://your-portfolio-link-here
 
