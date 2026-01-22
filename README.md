@@ -1,8 +1,11 @@
 👋 Hi, I’m Mark Jake O. Alvizo!
 
 🎓 Undergraduate IT Student
+
 💻 Passionate about technology, programming, and system development
+
 🌱 Currently learning and improving my skills in software development through academic work and personal projects
+
 📚 Interested in building practical solutions that can help people and businesses
 
 🔧 Skills & Tools
